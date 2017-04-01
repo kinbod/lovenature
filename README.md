@@ -1,6 +1,6 @@
 ## booklist
 使用nodejs + mysql + express4 + ejs + grunt + bootstrap + semantic ui 构建的一个书籍展示应用
-
+http://linux.linuxidc.com/index.php?folder=MjAxN8Tq18rBzy8z1MIvM8jVL0phdmEgw+bK1LGmteQyMDE3sOY=
 **注意：**该项目重点在于用nodejs构建项目的流程，所以有些业务逻辑并没有补充完整，目前只是补充了登录注册。
 
 详情请查看[wiki](https://github.com/gcfeng/booklist/wiki)
